@@ -62,7 +62,7 @@ For rowIndex = 2 To lastRow
         MsgBox (Int(Cells(rowIndex, 2).Value))
     End If
     
-    If Int(Cells(rowIndex, 2).Value) = 20160101 Then
+    If Int(Right(Cells(rowIndex, 2).Value, 3)) = 101 Then
         openPrice = Cells(rowIndex, 3).Value
         MsgBox ("Open Price: " + Str(openPrice))
     End If
