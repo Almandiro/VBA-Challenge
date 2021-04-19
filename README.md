@@ -30,16 +30,13 @@ in green and negative change in red.
 ********************************************************************************
 ***************************** Homework Status **********************************
 ********************************************************************************
-1.  Found A Ticker -- Need to Triage for more than 1 ticker and apply the 
-    existing VBA script per ticker
-2.  Found Year
-3.  Issue finding "Open Price" and "Close Price" for one Ticker.  Need to apply 
-    logic for each ticker
-4.  Found Total Stock Volume for one Ticker.  Need to apply to more than one 
-    ticker.
-5.  Issue applying Code to all worksheets in one shot. Gretel reminded me that 
-    there's a "Loop" command I can impleent that applies the same logic to ALL sheets.
 
+HOMEWORK ASSIGNMENT SHOULD BE COMPLETE.
+
+THE ONLY FILE IN THIS ASSIGNMENT SHOULD BE THIS README.MD FILE THAT CONTAINS
+THE STATUS OF THE HOMEWORK AND THE RAW SCRIPT FILE.
+
+THIS CODE HAS BEEN TESTED ON THE "ALPHABET" XLS BUT NOT THE MAIN FILE.
 
 ********************************************************************************
 ***************************** Current VBA Code *********************************
